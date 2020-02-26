@@ -11,7 +11,7 @@ public class Exercicio03 {
 
         Map<String, Double> map = null;
         // TODO: implemente a criação do Map com a política de descontos do Site da empresa
-
+            map.put("MEDICAMENTO", )
         List<Produto> produtos = getProdutosCadastradosNoSite(map);
 
         imprimeListaDeProdutosDoSite(produtos);

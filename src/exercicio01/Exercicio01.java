@@ -9,7 +9,7 @@ public class Exercicio01 {
 
         int tamanho = 10;
 
-        int[] fibonacci = new Fibonacci().getSequenciaFibonacciDe(tamanho);
+        int[] fibonacci = new Fibonacci().getSequenciaFibonacciDe();
 
         Set<Integer> primos = new NumeroPrimo().getNumerosPrimosDe(getSetDe(fibonacci));
 
